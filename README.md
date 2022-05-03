@@ -5,7 +5,7 @@ Practica Git y Github Platzi.
 > Este curso de Git y GitHub de Platzi es muy interesante ademas de proveerme una herramienta
 > muy buena para mi carrera como desarrollador.
 
-##El contenido de este curso consiste en:
+## El contenido de este curso consiste en:
 
 - Todos los comando de Git
 - El flujo de trabajo en Github
