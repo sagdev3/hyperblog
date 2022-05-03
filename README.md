@@ -8,8 +8,8 @@ Practica Git y Github Platzi.
 ##El contenido de este curso consiste en:
 
 - Todos los comando de Git
-  . El flujo de trabajo en Github
-  . El verdadero amor por las buenas practicas.
-  . Trucos muy interesantes.
+- El flujo de trabajo en Github
+- El verdadero amor por las buenas practicas.
+- Trucos muy interesantes.
 
 Y como recordatorio: **Este readme.md es un pequeño ejemplo**. Diseñado para practicar. Si llegas acá NO ES TODO MI CONOCIMIENTO solo es practica, y mejor ve a ver el resto de mi portafolio. 😀
